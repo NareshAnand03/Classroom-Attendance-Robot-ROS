@@ -49,7 +49,16 @@ The proposed robotic system aims to address these challenges through automation.
 | Gazebo | Robot navigation simulation |
 | OpenCV | Image processing and object recognition |
 | Raspberry Pi OS | Hardware control environment |
+## 📁 Repository Files
 
+| File | Description |
+| :--- | :--- |
+| [Classroom Attendance Robot Using ROS.pptx](Classroom%20Attendance%20Robot%20Using%20ROS.pptx) | Project presentation covering system overview, architecture, hardware/software stack, and evaluation targets |
+| [classroom_attendance.py](classroom_attendance.py) | Python script handling classroom attendance logic and data processing |
+| [classroom_attendance.wbt](classroom_attendance.wbt) | Simulation world file for testing the classroom attendance environment |
+| [student_roster.csv](student_roster.csv) | Input student roster dataset used for matching and attendance tracking |
+| [attendance_log.csv](attendance_log.csv) | Attendance log recording tracked student attendance entries |
+| [Classroom-Attendance-Robot-Block-Diagram.png](Classroom-Attendance-Robot-Block-Diagram.png) | System block diagram illustrating hardware and software components |
 ## ⚙️ System Flow and Operation
 
 ### 1. Attendance Scanning

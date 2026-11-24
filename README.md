@@ -1,4 +1,5 @@
 # Classroom Attendance Robot Using ROS
+![Classroom Attendance Robot Block Diagram](./Classroom-Attendance-Robot-Block-Diagram.png)
 
 ### Automating Attendance Tracking Through Robotic Systems and ROS 2 Framework
 

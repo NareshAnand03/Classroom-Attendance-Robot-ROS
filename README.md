@@ -59,6 +59,7 @@ The proposed robotic system aims to address these challenges through automation.
 | [student_roster.csv](student_roster.csv) | Input student roster dataset used for matching and attendance tracking |
 | [attendance_log.csv](attendance_log.csv) | Attendance log recording tracked student attendance entries |
 | [Classroom-Attendance-Robot-Block-Diagram.png](Classroom-Attendance-Robot-Block-Diagram.png) | System block diagram illustrating hardware and software components |
+| [IEEE_Classroom_Attendance_Robot_Report.docx](IEEE_Classroom_Attendance_Robot_Report.docx) | IEEE-format technical report detailing the Webots simulation architecture, differential-drive control, state machine, and evaluation plan |
 ## ⚙️ System Flow and Operation
 
 ### 1. Attendance Scanning
